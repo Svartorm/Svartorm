@@ -57,6 +57,6 @@
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=svartorm&theme=dark&background=000000)](https://git.io/streak-stats)
 
 <div id="stats">
-    <img src="https://github-readme-stats-svartorm.vercel.app/api?username=svartorm&show_icons=true&theme=dark&background=000000" alt="Stats" width="400" height="200"/>
+    <img src="https://github-readme-stats-svartorm.vercel.app/api?username=svartorm&show_icons=true&theme=dark&background=000000" alt="Stats" width="500" height="200"/>
     <img src="https://github-readme-stats-svartorm.vercel.app/api/top-langs/?username=svartorm&layout=compact&theme=dark&background=000000" alt="Stats" width="400" height="200"/>
 </-div>
