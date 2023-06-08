@@ -1,7 +1,8 @@
 <div id="header" align="center">
     <img src="./assets/pippfp.jpg" width="100"/>
     <div id="badges">
-        <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+        <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"
+        href="www.linkedin.com/in/hugo-frangiamone"/>
     </div>
     </br>
 </div>
@@ -12,7 +13,7 @@
 - 🌱 I’m currently in an exchange semester at [Institut Teknologi Sepuluh Nopember (ITS)](https://www.its.ac.id/), in Surabaya, Indonesia 
 - 💻 I like to build weird stuff, make random projects and learn new things
 - 👯 I’m looking to collaborate on any project that can help me improve my skills
-- 📫 How to reach me: [LinkedIn]() or by [email](mailto:hugo.frangiamone@proton.me)
+- 📫 How to reach me: [LinkedIn](www.linkedin.com/in/hugo-frangiamone) or by [email](mailto:hugo.frangiamone@proton.me)
 - 📝 Would like to know more ? Check out my [resume](https://svartorm.me/)
 
 ---
@@ -57,5 +58,5 @@
 
 <div id="stats">
     <!--img src="https://github-readme-stats.vercel.app/api?username=svartorm&show_icons=true&theme=radical" alt="Stats" width="400" height="200"/-->
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=svartorm&layout=compact&theme=radical" alt="Stats" width="400" height="200"/>
+    <img src="//https://github-readme-stats-svartorm.vercel.app/api/top-langs/?username=svartorm&layout=compact&theme=radical" alt="Stats" width="400" height="200"/>
 </-div>
