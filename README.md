@@ -58,5 +58,5 @@
 
 <div id="stats">
     <!--img src="https://github-readme-stats.vercel.app/api?username=svartorm&show_icons=true&theme=radical" alt="Stats" width="400" height="200"/-->
-    <img src="//https://github-readme-stats-svartorm.vercel.app/api/top-langs/?username=svartorm&layout=compact&theme=radical" alt="Stats" width="400" height="200"/>
+    <img src="https://github-readme-stats-svartorm.vercel.app/api/top-langs/?username=svartorm&layout=compact&theme=radical" alt="Stats" width="400" height="200"/>
 </-div>
