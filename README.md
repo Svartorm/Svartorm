@@ -2,7 +2,7 @@
     <img src="./assets/pippfp.jpg" width="100"/>
     <div id="badges">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"
-        href="www.linkedin.com/in/hugo-frangiamone"/>
+        href="www.linkedin.com/in/hugo-frangiamone-78913323b"/>
     </div>
     </br>
 </div>
@@ -12,8 +12,10 @@
 - 🎓 I'm a Computer Science student at [EPITA (Ecole pour l'Informatique et les Technniques Avancée)](https://www.epita.fr/en/homepage/)  in Lyon, France
 - 🌱 I’m currently in an exchange semester at [Institut Teknologi Sepuluh Nopember (ITS)](https://www.its.ac.id/), in Surabaya, Indonesia 
 - 💻 I like to build weird stuff, make random projects and learn new things
+- 📖 Currently learning rust 
+<img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-plain.svg" title="Rust" width="20" height="20"/>
 - 👯 I’m looking to collaborate on any project that can help me improve my skills
-- 📫 How to reach me: [LinkedIn](www.linkedin.com/in/hugo-frangiamone) or by [email](mailto:hugo.frangiamone@proton.me)
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/hugo-frangiamone-78913323b) or by [email](mailto:hugo.frangiamone@proton.me)
 - 📝 Would like to know more ? Check out my [resume](https://svartorm.me/)
 
 ---
