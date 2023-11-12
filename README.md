@@ -1,7 +1,7 @@
 <div id="header" align="center">
     <img src="./assets/pippfp.jpg" width="100"/>
     <div id="badges">
-        <a href="www.linkedin.com/in/hugo-frangiamone-78913323b">
+        <a href="https://www.linkedin.com/in/hugo-frangiamone-78913323b">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
         </a>
     </div>
