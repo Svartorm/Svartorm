@@ -57,8 +57,4 @@
 ## :fire: My Stats :
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=svartorm&theme=dark&background=000000)](https://git.io/streak-stats)
-
-<div id="stats">
-    <img src="https://github-readme-stats-svartorm.vercel.app/api?username=svartorm&show_icons=true&theme=dark&background=000000" alt="Stats" width="450" height="200"/>
-    <img src="https://github-readme-stats-svartorm.vercel.app/api/top-langs/?username=svartorm&layout=compact&theme=dark&background=000000" alt="Stats" width="350" height="200"/>
-</div>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=svartorm&them=dark&background=000000)](https://github.com/anuraghazra/github-readme-stats)
