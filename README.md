@@ -57,5 +57,5 @@
 
 ## :fire: My Stats :
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=svartorm&theme=transparent&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=svartorm&theme=transparent&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=svartorm&theme=transparent&background=000000&size_weight=0.5&count_weight=0&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
