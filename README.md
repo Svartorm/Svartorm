@@ -16,7 +16,7 @@
 - 📖 Currently learning rust <img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-plain.svg" title="Rust" width="20" height="20"/>
   
 - 👯 I’m looking to collaborate on any project that can help me improve my skills
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/hugo-frangiamone-78913323b) or by [email](mailto:hugo.frangiamone@proton.me)
+- 📫 How to reach me: [LinkedIn](#) or by [email](#)
 - 📝 Would like to know more ? Check out my [resume](https://svartorm.me/)
 
 ---
