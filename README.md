@@ -13,7 +13,7 @@
 - 🎓 I'm a Computer Science student at [EPITA (Ecole pour l'Informatique et les Technniques Avancée)](https://www.epita.fr/en/homepage/)  in Lyon, France
 - 🌱 I’m currently in an exchange semester at [Institut Teknologi Sepuluh Nopember (ITS)](https://www.its.ac.id/), in Surabaya, Indonesia 
 - 💻 I like to build weird stuff, make random projects and learn new things
-- 📖 Currently learning rust <img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-plain.svg" title="Rust" width="20" height="20"/>
+- 📖 Currently learning rust <img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-plain.svg" title="Rust" width="30" height="30"/>
   
 - 👯 I’m looking to collaborate on any project that can help me improve my skills
 - 📫 How to reach me: [LinkedIn](#) or by [email](#)
