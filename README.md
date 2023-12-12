@@ -5,11 +5,10 @@
 
 ---
 ## About Me
-- 🎓 21yo french Computer Science student
+- 🎓 20yo french Computer Science student
 - Working for and stuying at [EPITA (Ecole pour l'Informatique et les Technniques Avancée)](https://www.epita.fr/en/homepage/)  in Lyon, France
 - 💻 By making random stuff, statistically I'm bound to make something great.
 - 📖 Currently learning rust
-  
 - 👯 I’m looking to collaborate on any project that can help me improve my skills
 - 📫 How to reach me: [LinkedIn](#) or by [email](#)
 - 📝 Would like to know more ? Check out my [resume](https://svartorm.me/)
