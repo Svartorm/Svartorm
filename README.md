@@ -5,14 +5,14 @@
 
 ---
 ## About Me
-- 🎓 20yo french Computer Science student
-- Working for and stuying at [EPITA (Ecole pour l'Informatique et les Technniques Avancée)](https://www.epita.fr/en/homepage/)  in Lyon, France
-- 💻 By making random stuff, statistically I'm bound to make something great.
-- 📖 Currently learning rust
-- 👯 I’m looking to collaborate on any project that can help me improve my skills
-- 📫 How to reach me: [LinkedIn](#) or by [email](#)
-- 📝 Would like to know more ? Check out my [resume](https://svartorm.me/)
+20 y/o | Male | CS Student | Coaster Enthusiast |   
+Working for and stuying at [EPITA (Ecole pour l'Informatique et les Technniques Avancée)](https://www.epita.fr/en/)  in Lyon, France
 
+Currently building a Tiger compiler 🐯
+
+Feel free to say [hi](https://linktr.ee/svartorm)!   
+Would like to know more ? Check out my [Website](https://svartorm.me/)
+> By making random stuff, statistically I'm bound to make something great.
 ---
 ## :hammer_and_wrench: Languages and Tools :
 <div id="language">
@@ -25,7 +25,6 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-plain.svg" title="PHP" alt="PHP" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/ocaml/ocaml-original.svg" title="OCaml" alt="OCaml" width="40" height="40"/>&nbsp;
 </div>
 <div id="Framework and environment">
