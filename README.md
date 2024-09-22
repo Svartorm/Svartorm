@@ -5,13 +5,13 @@
 
 ---
 ## About Me
-20 y/o | Male | CS Student | Coaster Enthusiast |   
+21 y/o | Male | CS Student | Coaster Enthusiast |   
 Working for and stuying at [EPITA (Ecole pour l'Informatique et les Technniques Avancée)](https://www.epita.fr/en/)  in Lyon, France
 
-Currently building a Tiger compiler 🐯
+Currently in Intership for @Trombone
 
 Feel free to say [hi](https://linktr.ee/svartorm)!   
-Would like to know more ? Check out my [Website](https://svartorm.me/)
+Would like to know more ? Check out my [Website](https://svartorm.tech/)
 > By making random stuff, statistically I'm bound to make something great.
 ---
 ## :hammer_and_wrench: Languages and Tools :
